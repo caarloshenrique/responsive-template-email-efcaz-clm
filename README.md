@@ -10,6 +10,9 @@ O projeto foi feito utilizando as seguintes tecnologias:
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
 
+## :fire: Executando a aplicação
+Execute o arquivo `template-email.html` localizado na raiz do projeto.
+
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
 
