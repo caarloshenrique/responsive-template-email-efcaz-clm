@@ -1,4 +1,5 @@
 # responsive-template-email-efcaz-clm
+:email: Um template de e-mail responsivo | Efcaz CLM
 
 ### :memo: Assinatura de documento
 
